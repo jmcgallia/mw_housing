@@ -19,9 +19,19 @@ Users can also view a graph showing the counties with the most and least afforda
 - Data analysis and visualization
 
 ## About the data used
-My two sources are 
+### Notes
+Minimum wage is a complicated subject because many states have complicated laws regarding it. For example in a given state minimum wage for a given job depends on whether the job provides health insurance, the profits of the employer, the number of employees, etc. Certain towns and counties may also impose their own separate minimum wages.
+
+During my data gathering, for any given county I used the lowest wage that the majority of people might have. For example, if in one state minimum wage is 9 dollars if insurance is provided, and 10 if not, I would go with 9. If a city taking up the majority of the population of a county has an ordinance for a higher minimum wage than the state, I would go with that minimum wage for the county.
+
+### Sources
+#### Minimum Wage
+- **State-level**: Department of Labor minimum wage history: https://www.dol.gov/agencies/whd/state/minimum-wage/history
+- **Individual Cities**:
+#### Housing Costs
+- US HUD fair market rents (40th percentile): https://www.huduser.gov/portal/datasets/fmr.html?aid=03c3fad7-bea6-4ab9-9a7a-82f4d6380c42
 
 ## Future Work
 In the future, I would like to.. 
 - lengthen the timespan available.
-- Let user toggle between minimum hourly wage and median minimum since in some places is not common to make minimum wage.
+- Let user toggle between minimum hourly wage and median minimum since in some places is not common to make minimum wage and I think median wage is a better indicator of how easy living somewhere would be.
