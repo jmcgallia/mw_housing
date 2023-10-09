@@ -22,7 +22,7 @@ Users can also view a graph showing the counties with the most and least afforda
 ### Notes
 Minimum wage is a complicated subject because many states have complicated laws regarding it. For example in a given state minimum wage for a given job depends on whether the job provides health insurance, the profits of the employer, the number of employees, etc. Certain towns and counties may also impose their own separate minimum wages.
 
-During my data gathering, for any given county I used the lowest wage that the majority of people might have. For example, if in one state minimum wage is 9 dollars if insurance is provided, and 10 if not, I would go with 9. If a city taking up the majority of the population of a county has an ordinance for a higher minimum wage than the state, I would go with that minimum wage for the county.
+During my data gathering, for any given county I used the lowest wage that the majority of people might have. For example, if in one state minimum wage is 9 dollars if insurance is provided, and 10 if not, I would go with 9. 
 
 ### Sources
 #### Minimum Wage
@@ -33,5 +33,6 @@ During my data gathering, for any given county I used the lowest wage that the m
 
 ## Future Work
 In the future, I would like to.. 
+- Find a way to incorporate city/individual county ordinances into the analysis. At the moment, all the data is scattered around different state government sites and it would take forever to gather exceptions for different counties (I'll do it if somebody pays me.) Furthermore, one county can have many different cities with different minimum wages. For example the city Alameda in california has its own minimum wage, but ALameda county includes several large cities. I am thinking about how to overcome this.
 - lengthen the timespan available.
-- Let user toggle between minimum hourly wage and median minimum since in some places is not common to make minimum wage and I think median wage is a better indicator of how easy living somewhere would be.
+- Find a good source for median wage by county and let users toggle for this. I think it is a better indicator for general quality of life.
