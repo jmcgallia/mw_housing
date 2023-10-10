@@ -1,6 +1,6 @@
 # Vizualizing the affordability of housing in the US over time
 ## Summary
-
+[LINK](https://public.tableau.com/shared/BP4F3YTGK?:display_count=n&:origin=viz_share_link)
 ### The Map
 An interactive map to visualize how many hours one person would need to work on minimum wage in order to afford different kinds of housing over time. The user can choose different combinations of years and housing types (studio, 1BR, 2BR, etc) and see how the value of the minimum wage has changed over time when it comes to housing. The colors on the map represent hours worked in order to afford a home in the 40th percentile of price in that county. 
 
