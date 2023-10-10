@@ -1,4 +1,5 @@
 # Vizualizing the affordability of housing in the US over time
+![Demo Image](demo.JPG)
 ## Summary
 [LINK](https://public.tableau.com/shared/BP4F3YTGK?:display_count=n&:origin=viz_share_link)
 ### The Map
